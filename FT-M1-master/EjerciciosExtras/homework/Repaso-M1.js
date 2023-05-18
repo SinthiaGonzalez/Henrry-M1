@@ -17,6 +17,7 @@ const {
 var countArray = function(array) {
     // Tu código aca:
     
+    
 }
 
 
